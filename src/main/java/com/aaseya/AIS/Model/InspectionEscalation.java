@@ -20,6 +20,8 @@ import jakarta.persistence.Table;
 @Table(name = "InspectionEscalation")
 public class InspectionEscalation {
 
+	// This class represents the escalation of an inspection.
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY) // Auto-generate escalationId
 	@Column(name = "escalationId")
