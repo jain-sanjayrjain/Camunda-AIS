@@ -1,1 +1,1 @@
-This is the sample ready file.
+This is the sample ready file. Sample file.
