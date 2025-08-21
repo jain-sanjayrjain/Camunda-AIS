@@ -14,7 +14,7 @@ public enum errorCode {
         this.code = code;
         this.message = message;
     }
-  // Get Status
+  // Get Status 
     public HttpStatus getStatus() {
         return status;
     }
